@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.7.6\n"
+
+#. Text in function
+#: sreative/index-1-demo.php:75
+msgid " Comments"
+msgstr ""
+
+#. Text in function
+#: sreative/index-1-demo.php:75
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: sreative/portfolio-nonspaced.php:69 sreative/portfolio-spaced.php:69
+#: sreative/portfolio.php:69
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: sreative/single_portfolio.php:108
+msgid "By"
+msgstr ""
+
+#. Text in function
+#: sreative/index-1-demo.php:75
+msgid "Comments are off for this post."
+msgstr ""
+
+#. Text in echo
+#: sreative/single_portfolio.php:112
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: sreative/contact.php:85
+msgid "E-mail"
+msgstr ""
+
+#. Text in echo
+#: sreative/comments.php:70
+msgid "Email Address *"
+msgstr ""
+
+#. Text in echo
+#: sreative/comments.php:80
+msgid "Message *"
+msgstr ""
+
+#. Text in echo
+#: sreative/comments.php:66
+msgid "Name *"
+msgstr ""
+
+#. Text in function
+#: sreative/index-1-demo.php:75
+msgid "No Comment"
+msgstr ""
+
+#. Text in echo
+#: sreative/functions/theme_functions.php:133
+msgid "Pingback:"
+msgstr ""
+
+#. Text in echo
+#: sreative/search.php:100 sreative/single_portfolio.php:143
+msgid "Sorry, but the thing you were looking for is not here !!!"
+msgstr ""
+
+#. Text in echo
+#: sreative/contact.php:90
+msgid "Subject"
+msgstr ""
+
+#. Text in echo
+#: sreative/contact.php:80
+msgid "There was an error on the form,Please fill out this form carefully: Fields marked with (*) are required."
+msgstr ""
+
+#. Text in echo
+#: sreative/single_portfolio.php:116
+msgid "URL"
+msgstr ""
+
+#. Text in echo
+#: sreative/comments.php:74
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: sreative/functions/widgets.php:65
+msgid "What pictures to display"
+msgstr ""
+
+#. Text in echo
+#: sreative/functions/theme_functions.php:120
+msgid "Your comment is waiting moderation."
+msgstr ""
+
+#. Text in echo
+#: sreative/contact.php:95
+msgid "Your message"
+msgstr ""
+
+#. Text in echo
+#: sreative/contact.php:84
+msgid "Your name"
+msgstr ""
